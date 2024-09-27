@@ -1,0 +1,9 @@
+{
+    "db_conf": {
+        "host": "127.0.0.1",
+        "mongo_port": 27017,
+        "port": 3001,
+        "default_database": "codify",
+        "mongo_url": "mongodb://localhost:27017/codify"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"apps":[
+		{
+			"name":"valarus-ms",
+			"script":"npm",
+			"args":"start"
+		}
+		]
+}
